@@ -32,8 +32,8 @@ Hello, my name is Yue Fang. I am currently pursuing a Ph.D. in Computer Science 
 
 Xinke Jiang(co-first author), **Yue Fang**(co-first author), Rihong Qiu(co-first author), Haoyu Zhang, Yongxin Xu,Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xinyu Ma,Xu Chu, Junfeng Zhao, Yasha Wang
 
-[**Project**](https://github.com/Artessay/TC-RAG) 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code&Data**](https://github.com/Artessay/TC-RAG) 
+
 </div>
 </div>
 
