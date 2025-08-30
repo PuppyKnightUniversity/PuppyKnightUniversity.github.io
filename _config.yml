@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yue Fang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Ph.D. Student"
+repository               : "https://puppyknightuniversity.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yue Fang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.png"
   bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
