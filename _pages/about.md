@@ -61,7 +61,7 @@ Hongxin Ding(co-first author), **Yue Fang**(co-first author), Runchuan Zhu(co-fi
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/promed.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/promed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](https://arxiv.org/pdf/2508.13514?)
@@ -71,6 +71,21 @@ Arxiv preprint
 Hongxin Ding(co-first author), Baixiang Huang(co-first author), **Yue Fang**(co-first author), Weibin Liao, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang
 
 [**Code Repository Here**](https://github.com/hxxding/ProMed) 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/dfams.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DFAMS: Dynamic-flow guided Federated Alignment based Multi-prototype Search](https://www.arxiv.org/pdf/2508.20353)
+
+Arxiv preprint
+
+Zhibang Yang, Xinke Jiang, Rihong Qiu, Ruiqing Li, Yihang Zhang, **Yue Fang**, Yongxin Xu, Hongxin Ding, Xu Chu, Junfeng Zhao, Yasha Wang
+
+[**Code Repository Coming Soon**]
 
 </div>
 </div>
