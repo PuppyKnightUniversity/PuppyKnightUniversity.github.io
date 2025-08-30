@@ -30,14 +30,26 @@ Hello, my name is Yue Fang. I am currently pursuing a Ph.D. in Computer Science 
 
 [TC–RAG: Turing–Complete RAG’s Case study on Medical LLM Systems](https://aclanthology.org/2025.acl-long.558.pdf)
 
-Xinke Jiang(co-first author), **Yue Fang**(co-first author), Rihong Qiu(co-first author), Haoyu Zhang, Yongxin Xu,Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xinyu Ma,Xu Chu, Junfeng Zhao, Yasha Wang
+Xinke Jiang(co-first author), **Yue Fang**(co-first author), Rihong Qiu(co-first author), Haoyu Zhang, Yongxin Xu, Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xinyu Ma,Xu Chu, Junfeng Zhao, Yasha Wang
 
-[**Code&Data**](https://github.com/Artessay/TC-RAG) 
+[**Code Repository Here**](https://github.com/Artessay/TC-RAG) 
 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/hykge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HyKGE: A Hypothesis Knowledge Graph Enhanced RAG Framework for Accurate and Reliable Medical LLMs Responses](https://aclanthology.org/2025.acl-long.580.pdf)
+
+Xinke Jiang, Ruizhe Zhang, Yongxin Xu, Rihong Qiu, **Yue Fang**, Zhiyuan Wang, Jinyi Tang, Hongxin Ding, Xu Chu, Junfeng Zhao, Yasha Wang
+
+[**Code Repository Here**](https://github.com/Artessay/TC-RAG) 
+
+</div>
+</div>
+
+
 
 # 📖 Educations
 - *2025.09 - now*, Peking University, School of Computer Science, Ph.D. in Computer Science and Technology. 
