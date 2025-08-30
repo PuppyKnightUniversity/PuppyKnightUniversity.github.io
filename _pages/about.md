@@ -25,6 +25,18 @@ Hello, my name is Yue Fang. I am currently pursuing a Ph.D. in Computer Science 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/3ds.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3DS: Decomposed Difficulty Data Selection's Case Study on LLM Medical Domain Adaptation](https://arxiv.org/pdf/2410.10901)
+
+Hongxin Ding(co-first author), **Yue Fang**(co-first author), Runchuan Zhu(co-first author), Xinke Jiang, Jinyang Zhang, Yongxin Xu, Xu Chu, Junfeng Zhao, Yasha Wang
+
+[**Code Repository Here**](https://github.com/PuppyKnightUniversity/3DS) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/tcrag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,7 +56,7 @@ Xinke Jiang(co-first author), **Yue Fang**(co-first author), Rihong Qiu(co-first
 
 Xinke Jiang, Ruizhe Zhang, Yongxin Xu, Rihong Qiu, **Yue Fang**, Zhiyuan Wang, Jinyi Tang, Hongxin Ding, Xu Chu, Junfeng Zhao, Yasha Wang
 
-[**Code Repository Here**](https://github.com/Artessay/TC-RAG) 
+[**Code Repository Here**](https://github.com/Artessay/HyKGE) 
 
 </div>
 </div>
