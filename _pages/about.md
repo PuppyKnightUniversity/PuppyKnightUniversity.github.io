@@ -25,10 +25,10 @@ Hello, my name is Yue Fang. I am currently pursuing a Ph.D. in Computer Science 
 - *2017.09 - 2021.07*, Nankai University, School of Cyberspace Security, B.S. in Information Security & LL.B. in Law (Dual Degree). 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our 3DS is accepted by **EMNLP 2025** main conference. 
-- *2025.06*: &nbsp;🎉🎉 Our TC-RAG is accepted **by ACL 2025** main conference(oral). 
-- *2025.06*: &nbsp;🎉🎉 Our HyKGE is accepted by **ACL 2025** main conference. 
-- *2025.05*: &nbsp;🎉🎉 Our HistoMOCO is accepted by **Cells STAR Protocol 2025**. 
+- *2025.08*: &nbsp;🎉🎉 Our 3DS is accepted by **<span style="color: red;">EMNLP 2025</span>** main conference. 
+- *2025.06*: &nbsp;🎉🎉 Our TC-RAG is accepted **by <span style="color: red;">ACL 2025</span>** main conference(oral). 
+- *2025.06*: &nbsp;🎉🎉 Our HyKGE is accepted by **<span style="color: red;">ACL 2025</span>** main conference. 
+- *2025.05*: &nbsp;🎉🎉 Our HistoMOCO is accepted by **<span style="color: red;">Cells STAR Protocol 2025</span>**. 
 
 # 📝 Publications 
 
