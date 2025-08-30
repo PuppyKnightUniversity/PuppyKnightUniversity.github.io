@@ -32,6 +32,21 @@ Hello, my name is Yue Fang. I am currently pursuing a Ph.D. in Computer Science 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/eagrl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/pdf/2508.13579?)
+Arxiv preprint
+
+**Yue Fang**(co-first author), Yuxin Guo(co-first author), Jiaran Gao(co-first author), Hongxin Ding(co-first author), Xinke Jiang, Weibin Liao, Yongxin Xu, Yinghao Zhu, Zhibang Yang, Liantao Ma, Junfeng Zhao, Yasha Wang
+
+[**Code Repository Here**](https://github.com/devilran6/EAG-RL) 
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/3ds.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
