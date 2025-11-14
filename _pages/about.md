@@ -25,23 +25,37 @@ Hello, my name is Yue Fang. I am currently pursuing a Ph.D. in Computer Science 
 - *2017.09 - 2021.07*, Nankai University, School of Cyberspace Security, B.S. in Information Security & LL.B. in Law (Dual Degree). 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our 3DS is accepted by **<span style="color: red;">EMNLP 2025</span>** main conference. 
-- *2025.06*: &nbsp;🎉🎉 Our TC-RAG is accepted **by <span style="color: red;">ACL 2025</span>** main conference(oral). 
-- *2025.06*: &nbsp;🎉🎉 Our HyKGE is accepted by **<span style="color: red;">ACL 2025</span>** main conference. 
-- *2025.05*: &nbsp;🎉🎉 Our HistoMOCO is accepted by **<span style="color: red;">Cells STAR Protocol 2025</span>**. 
+- *2025.11*: &nbsp;🎉 Our EAG-RL is accepted by **<span style="color: red;">AAAI 2026</span>** conference(oral). 
+- *2025.08*: &nbsp;🎉 Our 3DS is accepted by **<span style="color: red;">EMNLP 2025</span>** main conference. 
+- *2025.06*: &nbsp;🎉 Our TC-RAG is accepted **by <span style="color: red;">ACL 2025</span>** main conference(oral). 
+- *2025.06*: &nbsp;🎉 Our HyKGE is accepted by **<span style="color: red;">ACL 2025</span>** main conference. 
+- *2025.05*: &nbsp;🎉 Our HistoMOCO is accepted by **<span style="color: red;">Cells STAR Protocol 2025</span>**. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/eagrl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/adept.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ADEPT: Continual Pretraining via Adaptive Expansion and Dynamic Decoupled Tuning](https://arxiv.org/pdf/2508.13514?)
+
+Arxiv preprint
+
+Jinyang Zhang(co-first author), **Yue Fang**(co-first author), Hongxin Ding(co-first author), Weibin Liao(co-first author), Muyang Ye, Xu Chu, Junfeng Zhao, Yasha Wang
+
+[**Code**](https://github.com/PuppyKnightUniversity/ADEPT) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-red">AAAI 2026</div><img src='images/eagrl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/pdf/2508.13579?)
 
-Arxiv preprint
 
 **Yue Fang**(co-first author), Yuxin Guo(co-first author), Jiaran Gao(co-first author), Hongxin Ding(co-first author), Xinke Jiang, Weibin Liao, Yongxin Xu, Yinghao Zhu, Zhibang Yang, Liantao Ma, Junfeng Zhao, Yasha Wang
 
-[**Code Repository Here**](https://github.com/devilran6/EAG-RL) 
+[**Code**](https://github.com/devilran6/EAG-RL) 
 
 </div>
 </div>
@@ -54,7 +68,7 @@ Arxiv preprint
 
 Hongxin Ding(co-first author), **Yue Fang**(co-first author), Runchuan Zhu(co-first author), Xinke Jiang, Jinyang Zhang, Yongxin Xu, Xu Chu, Junfeng Zhao, Yasha Wang
 
-[**Code Repository Here**](https://github.com/PuppyKnightUniversity/3DS) 
+[**Code**](https://github.com/PuppyKnightUniversity/3DS) 
 
 </div>
 </div>
@@ -70,7 +84,7 @@ Arxiv preprint
 
 Hongxin Ding(co-first author), Baixiang Huang(co-first author), **Yue Fang**(co-first author), Weibin Liao, Xinke Jiang, Zheng Li, Junfeng Zhao, Yasha Wang
 
-[**Code Repository Here**](https://github.com/hxxding/ProMed) 
+[**Code**](https://github.com/hxxding/ProMed) 
 
 </div>
 </div>
@@ -97,7 +111,7 @@ Zhibang Yang, Xinke Jiang, Rihong Qiu, Ruiqing Li, Yihang Zhang, **Yue Fang**, Y
 
 Xinke Jiang(co-first author), **Yue Fang**(co-first author), Rihong Qiu(co-first author), Haoyu Zhang, Yongxin Xu, Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xinyu Ma,Xu Chu, Junfeng Zhao, Yasha Wang
 
-[**Code Repository Here**](https://github.com/Artessay/TC-RAG) 
+[**Code**](https://github.com/Artessay/TC-RAG) 
 
 </div>
 </div>
@@ -109,7 +123,7 @@ Xinke Jiang(co-first author), **Yue Fang**(co-first author), Rihong Qiu(co-first
 
 Xinke Jiang, Ruizhe Zhang, Yongxin Xu, Rihong Qiu, **Yue Fang**, Zhiyuan Wang, Jinyi Tang, Hongxin Ding, Xu Chu, Junfeng Zhao, Yasha Wang
 
-[**Code Repository Here**](https://github.com/Artessay/HyKGE) 
+[**Code**](https://github.com/Artessay/HyKGE) 
 
 </div>
 </div>
@@ -122,7 +136,7 @@ Xinke Jiang, Ruizhe Zhang, Yongxin Xu, Rihong Qiu, **Yue Fang**, Zhiyuan Wang, J
 
 Xiaoyun Zhang, **Yue Fang**, Weibin Liao, Junyi Ma, Xin Gao, Min Gao, Junfeng Zhao
 
-[**Code Repository Here**](https://github.com/Heyffff/HistoMoCo) 
+[**Code**](https://github.com/Heyffff/HistoMoCo) 
 
 </div>
 </div>
