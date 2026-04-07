@@ -1019,3 +1019,71 @@ body {
 }
 [data-theme="dark"] .sparkline .spark-value { fill: var(--accent-blue); }
 
+/* ============================================================
+   MAODI HERO — top-center pixel animation block
+   ============================================================ */
+.maodi-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0.5em auto 2em;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+.maodi-hero canvas {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 2 / 1;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    border-radius: 18px;
+    box-shadow: 0 30px 60px -28px rgba(74, 125, 255, 0.45),
+                0 8px 20px -10px rgba(30, 41, 99, 0.25),
+                inset 0 0 0 1px rgba(74, 125, 255, 0.15);
+    transition: transform 0.4s cubic-bezier(.2,.8,.2,1),
+                box-shadow 0.4s ease;
+}
+.maodi-hero canvas:hover {
+    transform: translateY(-3px) scale(1.01);
+    box-shadow: 0 36px 70px -28px rgba(74, 125, 255, 0.55),
+                0 12px 26px -10px rgba(30, 41, 99, 0.32),
+                inset 0 0 0 1px rgba(74, 125, 255, 0.25);
+}
+[data-theme="dark"] .maodi-hero canvas {
+    box-shadow: 0 30px 60px -24px rgba(0, 0, 0, 0.7),
+                0 8px 20px -10px rgba(0, 0, 0, 0.45),
+                inset 0 0 0 1px rgba(122, 162, 255, 0.20);
+}
+.maodi-hero .maodi-caption {
+    margin-top: 0.7rem;
+    font-size: 0.78em;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.maodi-hero .maodi-caption strong {
+    background: linear-gradient(120deg, #00369f 0%, #4a7dff 50%, #c44ad6 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 1.1em;
+    letter-spacing: 0;
+}
+[data-theme="dark"] .maodi-hero .maodi-caption strong {
+    background: linear-gradient(120deg, #7aa2ff 0%, #b890ff 50%, #ff9aab 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .maodi-hero canvas { animation: none; }
+}
+

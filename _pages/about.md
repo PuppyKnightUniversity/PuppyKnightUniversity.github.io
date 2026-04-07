@@ -17,6 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class="maodi-hero">
+  <canvas id="maodi-canvas" width="720" height="360" aria-label="maodi pixel animation"></canvas>
+  <div class="maodi-caption"><strong>maodi</strong> on a forest patrol</div>
+</div>
+
 <span class="greeting" data-default="Hello">Hello</span>, my name is <span class="hero-name">Yue Fang</span>. I am currently pursuing a Ph.D. in Computer Science at Peking University. My research interests lie in medical large language models (LLMs), reinforcement learning (RL), and retrieval-augmented generation (RAG).
 
 <div class="interest-tags">
