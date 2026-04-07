@@ -11,6 +11,8 @@ layout: compress
 
   <body>
 
+    <div id="reading-progress" aria-hidden="true"></div>
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -25,6 +27,16 @@ layout: compress
           </section>
         </div>
       </article>
+    </div>
+
+    <div class="floating-controls">
+      <button id="theme-toggle" class="floating-btn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <span class="theme-icon-light">☀</span>
+        <span class="theme-icon-dark">☾</span>
+      </button>
+      <button id="back-to-top" class="floating-btn" type="button" aria-label="Back to top" title="Back to top">
+        <span>↑</span>
+      </button>
     </div>
 
     {% include scripts.html %}
